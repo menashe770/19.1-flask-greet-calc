@@ -40,7 +40,7 @@ def do_div():
     return div(result)
 
 
-# BONUS
+# BONUS (from solution)
 operators = {
     "add": add,
     "sub": sub,
